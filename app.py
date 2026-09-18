@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 st.title("🗺️ Universal CAD ↔ KML Grid Converter")
-st.write("Convert CAD DXF files from **any Grid Coordinate System (EPSG)** to Google Earth KML files (**EPSG:4326 / WGS84**) and vice versa.")
+st.write("Convert CAD DXF files from **any Grid Coordinate System (EPSG)** to Google Earth KML files (**EPSG:4326 / WGS84**) and vice versa. - ranjith.wijekoon@gmail.com")
 
 # --- Helper Function for EPSG Validation ---
 def get_crs_info(epsg_code):
