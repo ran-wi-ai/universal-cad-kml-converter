@@ -9,7 +9,7 @@ from pyproj import Transformer, CRS
 
 # --- Streamlit Page Setup ---
 st.set_page_config(
-    page_title="Universal CAD & KML Grid Converter - K.D.R.W.",
+    page_title="Universal CAD(Grid) & KML Converter - K.D.R.W.",
     page_icon="🗺️",
     layout="centered"
 )
