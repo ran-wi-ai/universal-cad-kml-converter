@@ -14,7 +14,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🗺️ Universal CAD ↔ KML Grid Converter")
+st.title("🗺️ Universal CAD(Grid) ↔ KML Converter")
 st.write("Convert CAD DXF files from **any Grid Coordinate System (EPSG)** to Google Earth KML files (**EPSG:4326 / WGS84**) and vice versa.")
 st.write("Bugs/suggestions to ranjith.wijekoon@gmail.com")
 
